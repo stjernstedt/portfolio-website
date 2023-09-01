@@ -23,9 +23,12 @@ const About = () => {
 				<Paper className={'mb-6 lg:mb-0'}>
 					<h1 className='pb-6 text-center text-xl text-dark lg:text-3xl'>Who am I</h1>
 					<div className='lg:text-xl'>
-						Vivamus eget erat pretium, consectetur velit non, mattis neque. Nulla et magna a enim lobortis accumsan a ac massa. Sed bibendum metus dignissim
-						diam aliquam efficitur. Nunc tincidunt euismod tortor, sed consectetur ligula pharetra vitae. Maecenas semper venenatis lectus aliquam semper. Morbi
-						dignissim lacus vitae tempor pretium. Cras efficitur in neque ac rutrum.
+						I am a beginner full stack developer and my strong points at the moment are JavaScript, React, and CSS but also have experience in Java and C# as
+						well as the Unity game engine. I graduated from the university of Gävle(my home town) with a degree in computer science, and more specifically
+						system development, where I learned among other things Java, HTML, CSS and how to structure a system from the ground up. Always being interested in
+						learning new things and finding programming highly enjoyable I have since graduating kept on learning new languages and frameworks, with the most
+						recent being React. I my spare time, aside from working on personal projects, I enjoy playing games and during winter I try to go snowboarding as
+						much as I can.
 					</div>
 				</Paper>
 				<Paper className={'h-fit'}>

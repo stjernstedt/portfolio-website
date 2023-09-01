@@ -8,14 +8,9 @@ const Preface = () => {
 				<Image width={300} height={300} src='/profile-square.jpg' alt='mugshot' className='scale-50 self-center rounded-full shadow-2xl lg:scale-100' />
 				<div className='xl:col-span-2'>
 					<Paper>
-						<h1 className='pb-10 text-xl text-dark lg:text-6xl'>Random Developer</h1>
+						<h1 className='pb-10 text-xl text-dark lg:text-4xl'>Full Stack React Developer</h1>
 						<div className='lg:text-xl'>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tortor neque, pharetra at enim sit amet, condimentum suscipit eros. Proin
-							elementum efficitur massa. Fusce tristique mollis sagittis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer turpis diam,
-							efficitur in lectus sed, gravida maximus massa. Proin vitae metus vitae justo vehicula dapibus a elementum metus. Morbi nisi ex, auctor sit amet
-							fermentum nec, semper nec nisl. Donec tincidunt, elit malesuada eleifend efficitur, mauris ante suscipit ante, quis consectetur mauris elit non
-							metus. Sed consequat, orci non mattis convallis, lectus nulla finibus leo, vitae feugiat urna dui vel ligula. Suspendisse venenatis molestie ex ac
-							volutpat.
+							Hi, my name is Mattias Stjernstedt and I&apos;m a beginner full stack developer born in Sweden but currently based in Tokyo, Japan.
 						</div>
 					</Paper>
 				</div>
